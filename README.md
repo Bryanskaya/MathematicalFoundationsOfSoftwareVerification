@@ -1,0 +1,2 @@
+# MathematicalFoundationsOfSoftwareVerification
+Лабораторные работы по предмету "Математические основы верификации программного обеспечения"
